@@ -106,7 +106,8 @@
     last_name: Ginzburg
     nick: ginzburg
     type: phd
-    active: true
+    active: false
+    graduated: 2024
     url: http://www.samginzburg.com
     picture: /assets/img/people/ginzburg.png
 
@@ -196,7 +197,8 @@
     last_name: Tan
     nick: yuetan
     type: phd
-    active: true
+    active: false
+    graduated: 2025
     url: http://www.cs.princeton.edu/~yuetan/
     picture: /assets/img/people/yuetan.jpg
 
@@ -213,7 +215,8 @@
     last_name: Raina
     nick: araina
     type: phd
-    active: true
+    active: false
+    graduated: 2024
     url: http://www.cs.princeton.edu/~araina/
     picture: /assets/img/people/araina.jpg
 
