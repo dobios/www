@@ -420,4 +420,17 @@
     url: https://scholar.google.com/citations?user=TUrxP-YAAAAJ&hl=en
     picture: /assets/img/people/rupa.jpg
 
+  - first_name: Liz
+    last_name: Austell
+    nick: liz
+    type: phd
+    active: true
+    url: https://github.com/elaustell
+    picture: /assets/img/people/liz.jpg
 
+  - first_name: Raye
+    last_name: Kimmerer
+    nick: rupa
+    type: phd
+    active: true
+    url: https://github.com/rayegun
